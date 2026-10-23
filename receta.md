@@ -3,8 +3,9 @@
 ## Ingredientes
 
 * 4 Patatas
-* 5 Huevos
+* 15 Huevos
 * Aceite y sal
+* Azucar
 
 ## Preparación
 
