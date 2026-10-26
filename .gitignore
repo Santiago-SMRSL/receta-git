@@ -1,3 +1,12 @@
-temporal/
+# Ignorar todos los archivos .tmp
 *.tmp
+
+# Ignorar archivo contraseña.txt
 contraseñas.txt
+
+# Ignorar foto1.png y foto2.png
+foto[1-2].png
+
+# Ignorar el contenido de la carpeta temporal exceptuando importante
+temporal/*
+!temporal/importante.txt
