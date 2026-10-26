@@ -10,3 +10,6 @@ foto[1-2].png
 # Ignorar el contenido de la carpeta temporal exceptuando importante
 temporal/*
 !temporal/importante.txt
+
+# Ignora el archivo notas-privadas.txt
+notas-privadas.txt
