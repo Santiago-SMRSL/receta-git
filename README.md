@@ -9,4 +9,4 @@ Para que esta receta de código salga perfecta, necesitamos:
 - Una cuenta activa en GitHub.
 - Ganas de practicar los comandos básicos (add, commit, push, pull).
 
-[enlace git](https://github.com/Santiago-SMRSL/receta-git)
+[Enlace Git](https://github.com/Santiago-SMRSL/receta-git)
